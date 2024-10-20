@@ -11,10 +11,16 @@ My project focuses on developing a design using HTML and CSS following the image
 5. [Acknowledgment](#ackmowledgment)
 
 ## Installation
+# for tailwindcss
+1. cd my-project
+2. node --version
+3. npm install
+# for github
 went gitHub page
-cd myproject
-git clone
-cd repository
+git remote set-url https://github.com/choden12/SDA101_CAP3_02240355.git
+git push --set-upstream origin main
+git status
+git push
 
 ## Usage
 To run the project the user needs to open the folder in Visual Studio Code (VSCode). Once inside VSCode they should right-click on the assg.html file and select Open with Live Server. This will automatically launch the project in the browser allowing them to view the code.
